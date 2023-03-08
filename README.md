@@ -1,4 +1,7 @@
 ### Hi there 👋
+I am Blockchain, Web3, React Frontend, and Node.js Backend developer with more than 13 years of experience in the software development field. I had led and worked with diverse teams who were located around the globe which was possible by working for multinational organizations for my entire career.
+
+ ⚡ For more infomration, please check my online portfolio: https://m-faried.github.io/m-faried-portfolio
 
 <!--
 **M-Faried/M-Faried** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
