@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Blockchain, Web3, React Frontend, and Node.js Backend developer with more than 13 years of experience in the software development field. I had led and worked with diverse teams who were located around the globe which was possible by working for multinational organizations for my entire career.
+I am Blockchain, Web3, META Certified React Frontend developer, and Node.js Backend developer with more than 13 years of experience in the software development field. I had led and worked with diverse teams who were located around the globe which was possible by working for multinational organizations for my entire career.
 
  ⚡ For more infomration, please check my online portfolio: https://m-faried.github.io/m-faried-portfolio
 
