@@ -5,6 +5,12 @@ I am Blockchain, Web3, Meta Certified React Frontend developer, and Node.js Back
 
 <br>
 
+<p align='center'>
+    <img src='./assets/portfolio_preview.png' alt='portfolio preview' width="700"/>
+</p>
+
+<br>
+
 ## ✒️ Publications
 
 <br>
