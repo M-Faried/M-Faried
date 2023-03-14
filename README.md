@@ -13,31 +13,41 @@ I am Blockchain, Web3, Meta Certified React Frontend developer, and Node.js Back
 
 <br>
 
-## ✒️ Publications
+## 📝 Publications
 
 <br>
 
-✒️ [SMIS Design Pattern](https://medium.com/@m.a.faried/smis-design-pattern-d725a7ad814c)
+### ✒️ SMIS Design Pattern
 
-✒️ [SMIS Design Pattern In Action](https://medium.com/@m.a.faried/smis-design-pattern-in-action-9a3c6daa85ae)
+A series of articles in I which I propose and explain to the React community a new design pattern which helps developers to abstract the global state manager to be able to shift from one state manager to another with no effort.
 
-✒️ [SMIS Vs Presentational & Container Component Design Patterns](https://medium.com/@m.a.faried/smis-vs-presentational-container-component-design-patterns-40efe64114e7)
+<br>
 
-✒️ [The Other Way To Handling Redux Async Operations](https://medium.com/@m.a.faried/the-otherway-to-handling-redux-async-operations-24ab95935a80)
+📝 [SMIS Design Pattern](https://medium.com/@m.a.faried/smis-design-pattern-d725a7ad814c)
 
-✒️ [Building An Accurate Timer With React Hooks](https://medium.com/@m.a.faried/building-a-real-time-react-hook-99636cbbff72)
+📝 [SMIS Design Pattern In Action](https://medium.com/@m.a.faried/smis-design-pattern-in-action-9a3c6daa85ae)
 
-✒️ [Custom Gitflow Design Guidelines](https://www.linkedin.com/pulse/custom-git-workflow-design-guidelines-mohamed-faried)
+📝 [SMIS Vs Presentational & Container Component Design Patterns](https://medium.com/@m.a.faried/smis-vs-presentational-container-component-design-patterns-40efe64114e7)
 
-✒️ [SCRUM In The Times Of COVID-19](https://www.linkedin.com/pulse/scrum-times-covid-19-mohamed-faried)
+<br>
 
-✒️ [Performance And Trust](https://www.linkedin.com/pulse/performance-trust-mohamed-faried)
+### ✒️ Others
 
-✒️ [There Are 2 Approaches](https://www.linkedin.com/pulse/two-approaches-mohamed-faried)
+📝 [Building An Accurate Timer With React Hooks](https://medium.com/@m.a.faried/building-a-real-time-react-hook-99636cbbff72)
 
-✒️ [UNAGI Process, Not Another Agile Framework!](https://www.linkedin.com/pulse/unagi-process-another-agile-framework-mohamed-faried)
+📝 [The Other Way To Handling Redux Async Operations](https://medium.com/@m.a.faried/the-otherway-to-handling-redux-async-operations-24ab95935a80)
 
-✒️ [C#-Like Events For Java](https://www.codeproject.com/Tips/1008821/Csharp-Like-Events-For-Java)
+📝 [Custom Gitflow Design Guidelines](https://www.linkedin.com/pulse/custom-git-workflow-design-guidelines-mohamed-faried)
+
+📝 [SCRUM In The Times Of COVID-19](https://www.linkedin.com/pulse/scrum-times-covid-19-mohamed-faried)
+
+📝 [Performance And Trust](https://www.linkedin.com/pulse/performance-trust-mohamed-faried)
+
+📝 [There Are 2 Approaches](https://www.linkedin.com/pulse/two-approaches-mohamed-faried)
+
+📝 [UNAGI Process, Not Another Agile Framework!](https://www.linkedin.com/pulse/unagi-process-another-agile-framework-mohamed-faried)
+
+📝 [C#-Like Events For Java](https://www.codeproject.com/Tips/1008821/Csharp-Like-Events-For-Java)
 
 <br>
 
