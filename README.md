@@ -35,8 +35,6 @@ I am Blockchain, Web3, Meta Certified React Frontend developer, and Node.js Back
 
 A series of articles in I which I propose and explain to the React community a new design pattern which helps developers to abstract the global state manager to be able to shift from one state manager to another with no effort.
 
-<br>
-
 * [SMIS Design Pattern](https://medium.com/@m.a.faried/smis-design-pattern-d725a7ad814c)
 
 * [SMIS Design Pattern In Action](https://medium.com/@m.a.faried/smis-design-pattern-in-action-9a3c6daa85ae)
@@ -67,8 +65,6 @@ A series of articles in I which I propose and explain to the React community a n
 
 ## 📜 Certificates
 
-<br>
-
 * [Meta Frontend Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/FNLNN2VJ55SP)
 
 * [Udacity Blockchain Developer Nanodegree](https://graduation.udacity.com/confirm/VLNMDKSV)
@@ -90,8 +86,6 @@ A series of articles in I which I propose and explain to the React community a n
 <br>
 
 ## 📐 Web3 & Blockchain Repos
-
-<br>
 
 * [Real Estate Market Place](https://github.com/M-Faried/ubc-web3-real-estate-marketplace)
 
