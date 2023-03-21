@@ -29,8 +29,6 @@ I am Blockchain, Web3, Meta Certified React Frontend developer, and Node.js Back
 
 ## 📝 Publications
 
-<br>
-
 ### 📝 SMIS Design Pattern
 
 A series of articles in I which I propose and explain to the React community a new design pattern which helps developers to abstract the global state manager to be able to shift from one state manager to another with no effort.
@@ -41,7 +39,6 @@ A series of articles in I which I propose and explain to the React community a n
 
 * [SMIS Vs Presentational & Container Component Design Patterns](https://medium.com/@m.a.faried/smis-vs-presentational-container-component-design-patterns-40efe64114e7)
 
-<br>
 
 ### 📝 Others
 
