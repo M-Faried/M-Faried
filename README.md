@@ -19,9 +19,11 @@ I am Blockchain, Web3, Meta Certified React Frontend developer, and Node.js Back
 
 * React
 * NextJS
+* Go Lang
 * Node.js
 * ExpressJS
 * MongoDB
+* PostgreSQL
 * SQL Server
 * Solidity
 
