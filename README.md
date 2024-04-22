@@ -86,6 +86,8 @@ A series of articles in I which I propose and explain to the React community a n
 
 ## 📐 Web3 & Blockchain Repos
 
+* [English Auction Smart Contract](https://github.com/M-Faried/english-auction-smart-contract)
+
 * [Real Estate Market Place](https://github.com/M-Faried/ubc-web3-real-estate-marketplace)
 
 * [Supply Chain Dapp](https://github.com/M-Faried/ubc-web3-supply-chain-dapp)
