@@ -31,6 +31,10 @@ I am Blockchain, Web3, Meta Certified React Frontend developer, and Node.js Back
 
 ## 📝 Publications
 
+### 📝 MPC Design Pattern
+
+* [MPC Design Pattern](https://medium.com/@m.a.faried/mvc-or-mpc-e907f39f9e35)
+
 ### 📝 SMIS Design Pattern
 
 A series of articles in I which I propose and explain to the React community a new design pattern which helps developers to abstract the global state manager to be able to shift from one state manager to another with no effort.
