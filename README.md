@@ -16,6 +16,7 @@ I am a Blockchain, Web3, NextJS, and Go Backend developer with more than 14 year
 
 * Go Lang
 * Solidity
+* Ethereum Smart Contracts 
 * React & NextJS
 * Node.js
 * ExpressJS
