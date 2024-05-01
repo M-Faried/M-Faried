@@ -8,6 +8,8 @@ I am a Blockchain, Web3, NextJS, and Go Backend developer with more than 14 year
 
 * [Medium](https://medium.com/@m.a.faried)
 
+* [Frontend Portfolio](https://m-faried.github.io/m-faried-portfolio/)
+
 <br>
 
 ## 💻 Tech Stack
