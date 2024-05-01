@@ -34,7 +34,7 @@ I am a Blockchain, Web3, NextJS, and Go Backend developer with more than 14 year
 
 # 📐 Web3 & Blockchain Repos
 
-- [English Auction Smart Contract](https://github.com/M-Faried/english-auction-smart-contract)
+- [English Auction Smart Contract And Go Service](https://github.com/M-Faried/english-auction-smart-contract)
 - [Real Estate Market Place](https://github.com/M-Faried/ubc-web3-real-estate-marketplace)
 - [Supply Chain Dapp](https://github.com/M-Faried/ubc-web3-supply-chain-dapp)
 - [Star Notary System](https://github.com/M-Faried/ubc-web3-erc721-star-notary-v3)
@@ -44,20 +44,10 @@ I am a Blockchain, Web3, NextJS, and Go Backend developer with more than 14 year
 
 # 📝 Publications
 
-#### 📝 MPC Design Pattern
-
-- [MPC Design Pattern](https://medium.com/@m.a.faried/mvc-or-mpc-e907f39f9e35)
-
-#### 📝 SMIS Design Pattern
-
-A series of articles in I which I propose and explain to the React community a new design pattern which helps developers to abstract the global state manager to be able to shift from one state manager to another with no effort.
-
-- [SMIS Design Pattern](https://medium.com/@m.a.faried/smis-design-pattern-d725a7ad814c)
+- [MPC Design Pattern Proposal](https://medium.com/@m.a.faried/mvc-or-mpc-e907f39f9e35)
+- [SMIS Design Pattern Proposal](https://medium.com/@m.a.faried/smis-design-pattern-d725a7ad814c)
 - [SMIS Design Pattern In Action](https://medium.com/@m.a.faried/smis-design-pattern-in-action-9a3c6daa85ae)
 - [SMIS Vs Presentational & Container Component Design Patterns](https://medium.com/@m.a.faried/smis-vs-presentational-container-component-design-patterns-40efe64114e7)
-
-#### 📝 Others
-
 - [Building An Accurate Timer With React Hooks](https://medium.com/@m.a.faried/building-a-real-time-react-hook-99636cbbff72)
 - [The Other Way To Handling Redux Async Operations](https://medium.com/@m.a.faried/the-otherway-to-handling-redux-async-operations-24ab95935a80)
 - [Custom Gitflow Design Guidelines](https://www.linkedin.com/pulse/custom-git-workflow-design-guidelines-mohamed-faried)
