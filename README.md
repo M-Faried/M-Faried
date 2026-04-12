@@ -10,7 +10,7 @@ Senior Software Engineer with 16 years of experience across embedded systems, ba
 
 <br>
 
-# 🔗 Links
+## 🔗 Links
 
 - [LinkedIn](https://www.linkedin.com/in/mo-faried-0258a445/)
 - [Medium](https://medium.com/@m.a.faried)
@@ -18,7 +18,7 @@ Senior Software Engineer with 16 years of experience across embedded systems, ba
 
 <br>
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 - Rust
 - Go
@@ -29,15 +29,12 @@ Senior Software Engineer with 16 years of experience across embedded systems, ba
 
 <br>
 
-## Rust Repos
 
-<div align="center">
-  <img src="assets/rust.png" width="150">
-</div>
+## <img src="assets/rust.png" width="30"> Rust Repos
 
 - [Space Invaders Game](https://github.com/M-Faried/Invaders)
 
-## 📐 Web3 & Blockchain Repos
+## <img src="assets/eth.png" width="30"> Web3 & Blockchain Repos
 
 - [English Auction Smart Contract And Go Service](https://github.com/M-Faried/english-auction-smart-contract)
 - [Real Estate Market Place](https://github.com/M-Faried/ubc-web3-real-estate-marketplace)
@@ -45,11 +42,7 @@ Senior Software Engineer with 16 years of experience across embedded systems, ba
 - [Star Notary System](https://github.com/M-Faried/ubc-web3-erc721-star-notary-v3)
 - [Flight Insurance Purchase Dapp](https://github.com/M-Faried/ubc-web3-flight-surety)
 
-## Go Repos
-
-<div align="center">
-  <img src="assets/go.png" width="150">
-</div>
+## <img src="assets/go-gopher-svgrepo-com.svg" width="30"> Go Repos
 
 - [Streaming Pipeline In Go](https://github.com/M-Faried/pipelines)
 - [MPC Design Pattern Implementation In Go](https://github.com/M-Faried/mpc-implementation-in-go)
