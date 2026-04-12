@@ -30,7 +30,7 @@ Senior Software Engineer with 16 years of experience across embedded systems, ba
 <br>
 
 
-## <img src="assets/rust.png" width="30"> Rust Repos
+## <img src="assets/rust.png" width="40"> Rust Repos
 
 - [Space Invaders Game](https://github.com/M-Faried/Invaders)
 
