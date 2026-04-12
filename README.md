@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I am a Blockchain, Web3, NextJS, and Go Backend developer with more than 14 years of experience in the software development field. I have led and worked with diverse global teams which was possible by working for multinational organizations for my entire career.
+Senior Software Engineer with 16 years of experience across embedded systems, backend development, blockchain, and distributed systems. I bring production depth in Go and Java microservices, a foundation in embedded C from a decade at Valeo, and am actively transitioning into Rust engineering — combining systems-level intuition with modern backend architecture experience.
 
 <br>
 
-<p align='center'>
+<!-- <p align='center'>
     <img src='./assets/portfolio_preview.png' alt='portfolio preview' width="700"/>
-</p>
+</p> -->
 
 <br>
 
@@ -20,19 +20,24 @@ I am a Blockchain, Web3, NextJS, and Go Backend developer with more than 14 year
 
 # 💻 Tech Stack
 
-- Go Lang
+- Rust
+- Go
 - Solidity
 - Ethereum Smart Contracts
 - React & NextJS
-- Node.js
 - ExpressJS
-- MongoDB
-- PostgreSQL
-- SQL Server
 
 <br>
 
-# 📐 Web3 & Blockchain Repos
+## Rust Repos
+
+<div align="center">
+  <img src="assets/rust.png" width="150">
+</div>
+
+- [Space Invaders Game](https://github.com/M-Faried/Invaders)
+
+## 📐 Web3 & Blockchain Repos
 
 - [English Auction Smart Contract And Go Service](https://github.com/M-Faried/english-auction-smart-contract)
 - [Real Estate Market Place](https://github.com/M-Faried/ubc-web3-real-estate-marketplace)
@@ -40,22 +45,26 @@ I am a Blockchain, Web3, NextJS, and Go Backend developer with more than 14 year
 - [Star Notary System](https://github.com/M-Faried/ubc-web3-erc721-star-notary-v3)
 - [Flight Insurance Purchase Dapp](https://github.com/M-Faried/ubc-web3-flight-surety)
 
+## Go Repos
+
+<div align="center">
+  <img src="assets/go.png" width="150">
+</div>
+
+- [Streaming Pipeline In Go](https://github.com/M-Faried/pipelines)
+- [MPC Design Pattern Implementation In Go](https://github.com/M-Faried/mpc-implementation-in-go)
+
 <br>
 
-# 📝 Publications
+## 📝 Publications
 
-- [MPC Design Pattern Proposal](https://medium.com/@m.a.faried/mvc-or-mpc-e907f39f9e35)
+- [MPC Design Pattern Proposal In Go](https://medium.com/@m.a.faried/mvc-or-mpc-e907f39f9e35)
 - [SMIS Design Pattern Proposal](https://medium.com/@m.a.faried/smis-design-pattern-d725a7ad814c)
 - [SMIS Design Pattern In Action](https://medium.com/@m.a.faried/smis-design-pattern-in-action-9a3c6daa85ae)
 - [SMIS Vs Presentational & Container Component Design Patterns](https://medium.com/@m.a.faried/smis-vs-presentational-container-component-design-patterns-40efe64114e7)
 - [Building An Accurate Timer With React Hooks](https://medium.com/@m.a.faried/building-a-real-time-react-hook-99636cbbff72)
 - [The Other Way To Handling Redux Async Operations](https://medium.com/@m.a.faried/the-otherway-to-handling-redux-async-operations-24ab95935a80)
 - [Custom Gitflow Design Guidelines](https://www.linkedin.com/pulse/custom-git-workflow-design-guidelines-mohamed-faried)
-- [SCRUM In The Times Of COVID-19](https://www.linkedin.com/pulse/scrum-times-covid-19-mohamed-faried)
-- [Performance And Trust](https://www.linkedin.com/pulse/performance-trust-mohamed-faried)
-- [There Are 2 Approaches](https://www.linkedin.com/pulse/two-approaches-mohamed-faried)
-- [UNAGI Process, Not Another Agile Framework!](https://www.linkedin.com/pulse/unagi-process-another-agile-framework-mohamed-faried)
-- [C#-Like Events For Java](https://www.codeproject.com/Tips/1008821/Csharp-Like-Events-For-Java)
 
 <br>
 
