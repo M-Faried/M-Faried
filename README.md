@@ -42,7 +42,7 @@ Senior Software Engineer with 16 years of experience across embedded systems, ba
 - [Star Notary System](https://github.com/M-Faried/ubc-web3-erc721-star-notary-v3)
 - [Flight Insurance Purchase Dapp](https://github.com/M-Faried/ubc-web3-flight-surety)
 
-## <img src="assets/go-gopher-svgrepo-com.svg" width="35"> Go Repos
+## <img src="assets/go-gopher-svgrepo-com.svg" width="40"> Go Repos
 
 - [Streaming Pipeline In Go](https://github.com/M-Faried/pipelines)
 - [MPC Design Pattern Implementation In Go](https://github.com/M-Faried/mpc-implementation-in-go)
