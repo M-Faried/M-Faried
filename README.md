@@ -51,6 +51,7 @@ Senior Software Engineer with 16 years of experience across embedded systems, ba
 
 ## 📝 Publications
 
+- [Limits Of Software Abstraction](https://medium.com/@m.a.faried/limits-of-software-abstraction-c68cc69e6294)
 - [MPC Design Pattern Proposal In Go](https://medium.com/@m.a.faried/mvc-or-mpc-e907f39f9e35)
 - [SMIS Design Pattern Proposal](https://medium.com/@m.a.faried/smis-design-pattern-d725a7ad814c)
 - [SMIS Design Pattern In Action](https://medium.com/@m.a.faried/smis-design-pattern-in-action-9a3c6daa85ae)
