@@ -34,6 +34,8 @@ Senior Software Engineer with 16 years of experience across embedded systems, ba
 
 - [Space Invaders Game](https://github.com/M-Faried/Invaders)
 
+<br>
+
 ## <img src="assets/eth.png" width="40"> Web3 & Blockchain Repos
 
 - [English Auction Smart Contract And Go Service](https://github.com/M-Faried/english-auction-smart-contract)
@@ -41,6 +43,8 @@ Senior Software Engineer with 16 years of experience across embedded systems, ba
 - [Supply Chain Dapp](https://github.com/M-Faried/ubc-web3-supply-chain-dapp)
 - [Star Notary System](https://github.com/M-Faried/ubc-web3-erc721-star-notary-v3)
 - [Flight Insurance Purchase Dapp](https://github.com/M-Faried/ubc-web3-flight-surety)
+
+<br>
 
 ## <img src="assets/go-gopher-svgrepo-com.svg" width="40"> Go Repos
 
