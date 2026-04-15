@@ -22,10 +22,9 @@ Senior Software Engineer with 16 years of experience across embedded systems, ba
 
 - Rust
 - Go
-- Solidity
-- Ethereum Smart Contracts
-- React & NextJS
+- Java
 - ExpressJS
+- React & NextJS
 
 <br>
 
@@ -33,16 +32,6 @@ Senior Software Engineer with 16 years of experience across embedded systems, ba
 ## <img src="assets/rust.png" width="40"> Rust Repos
 
 - [Space Invaders Game](https://github.com/M-Faried/Invaders)
-
-<br>
-
-## <img src="assets/eth.png" width="40"> Web3 & Blockchain Repos
-
-- [English Auction Smart Contract And Go Service](https://github.com/M-Faried/english-auction-smart-contract)
-- [Real Estate Market Place](https://github.com/M-Faried/ubc-web3-real-estate-marketplace)
-- [Supply Chain Dapp](https://github.com/M-Faried/ubc-web3-supply-chain-dapp)
-- [Star Notary System](https://github.com/M-Faried/ubc-web3-erc721-star-notary-v3)
-- [Flight Insurance Purchase Dapp](https://github.com/M-Faried/ubc-web3-flight-surety)
 
 <br>
 
