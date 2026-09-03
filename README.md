@@ -43,7 +43,7 @@ Senior Software Engineer with 16 years of experience across embedded systems, ba
 <br>
 
 ## 📝 Publications
-
+- [Why I Fell In Love With Rust](https://muhammad-ali-1.medium.com/why-i-fell-in-love-with-rust-63c6e363954b)
 - [Limits Of Software Abstraction](https://medium.com/@m.a.faried/limits-of-software-abstraction-c68cc69e6294)
 - [MPC Design Pattern Proposal In Go](https://medium.com/@m.a.faried/mvc-or-mpc-e907f39f9e35)
 - [SMIS Design Pattern Proposal](https://medium.com/@m.a.faried/smis-design-pattern-d725a7ad814c)
