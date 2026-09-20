@@ -12,19 +12,18 @@ Senior Software Engineer with 16 years of experience across embedded systems, ba
 
 ## 🔗 Links
 
-- [LinkedIn](https://www.linkedin.com/in/mo-faried-0258a445/)
-- [Medium](https://medium.com/@m.a.faried)
-- [Portfolio](https://m-faried.github.io/m-faried-portfolio/)
+- [LinkedIn](https://www.linkedin.com/in/muhammad-ali-0258a445/)
+- [Medium](https://muhammad-ali-1.medium.com/)
 
 <br>
 
 ## 💻 Tech Stack
 
-- Rust
 - Go
 - Java
 - ExpressJS
 - React & NextJS
+- Rust
 
 <br>
 
