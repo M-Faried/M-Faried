@@ -42,9 +42,11 @@ Senior Software Engineer with 16 years of experience across embedded systems, ba
 <br>
 
 ## 📝 Publications
-- [Why I Fell In Love With Rust](https://muhammad-ali-1.medium.com/why-i-fell-in-love-with-rust-63c6e363954b)
+
+- [De Facto Packages Matter More in the Age of AI](https://muhammad-ali-1.medium.com/de-facto-packages-matter-more-in-the-age-of-ai-957ca6f66739)
 - [Limits Of Software Abstraction](https://medium.com/@m.a.faried/limits-of-software-abstraction-c68cc69e6294)
 - [MPC Design Pattern Proposal In Go](https://medium.com/@m.a.faried/mvc-or-mpc-e907f39f9e35)
+- [Why I Fell In Love With Rust](https://muhammad-ali-1.medium.com/why-i-fell-in-love-with-rust-63c6e363954b)
 - [SMIS Design Pattern Proposal](https://medium.com/@m.a.faried/smis-design-pattern-d725a7ad814c)
 - [SMIS Design Pattern In Action](https://medium.com/@m.a.faried/smis-design-pattern-in-action-9a3c6daa85ae)
 - [SMIS Vs Presentational & Container Component Design Patterns](https://medium.com/@m.a.faried/smis-vs-presentational-container-component-design-patterns-40efe64114e7)
