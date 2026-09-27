@@ -27,17 +27,17 @@ Senior Software Engineer with 16 years of experience across embedded systems, ba
 
 <br>
 
+## <img src="assets/go-gopher-svgrepo-com.svg" width="40"> Go Repos
+
+- [City Zoning CLI using Simulated Annealing and Spring Embedder Algorithms](https://github.com/M-Faried/city-zoning)
+- [Streaming Pipeline In Go](https://github.com/M-Faried/pipelines)
+- [MPC Design Pattern Implementation In Go](https://github.com/M-Faried/mpc-implementation-in-go)
+
+<br>
 
 ## <img src="assets/rust.png" width="40"> Rust Repos
 
 - [Space Invaders Game](https://github.com/M-Faried/Invaders)
-
-<br>
-
-## <img src="assets/go-gopher-svgrepo-com.svg" width="40"> Go Repos
-
-- [Streaming Pipeline In Go](https://github.com/M-Faried/pipelines)
-- [MPC Design Pattern Implementation In Go](https://github.com/M-Faried/mpc-implementation-in-go)
 
 <br>
 
