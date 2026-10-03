@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Senior Software Engineer with 16 years of experience across embedded systems, backend development, blockchain, and distributed systems. I bring production depth in Go and Java microservices, a foundation in embedded C from a decade at Valeo, and am actively transitioning into Rust engineering — combining systems-level intuition with modern backend architecture experience.
+Senior Software & System Engineer with 16 years of engineering experience across real-time embedded systems, high-frequency trading, and event-driven microservices. Combines 11 years of low-level C/C++ hardware intuition with production expertise in Java, and Go systems. Specialized in low-latency data pipelines, CQRS architectures, and high-concurrency distributed systems. Seeking a Senior Software Engineer role focused on Go.
 
 <br>
 
